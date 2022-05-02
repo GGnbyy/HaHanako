@@ -450,7 +450,7 @@ function backBtn() {
 function shareText(score) {
 
     deviation_time = (date2.getTime() - _date1.getTime())
-    if (score <= 2.5 * __Time) return '寄！';
+    if (score <= 2.5 * __Time) return '你把fafa都整乐了';
     if (score <= 5 * __Time) return 'fafa为你加油嗷';
     if (score <= 7.5 * __Time) return 'fafa说你牛逼';
     if (score <= 10 * __Time) return '太牛逼辣';
